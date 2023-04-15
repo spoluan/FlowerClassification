@@ -1,5 +1,10 @@
 **Project Descriptions**
 
-The flower_photos dataset is a publicly available image dataset that contains thousands of labeled images of different flowers. It is commonly used as a benchmark dataset for training and evaluating deep learning models for image classification tasks. The dataset consists of 5,740 images of flowers belonging to 102 different categories, with each category representing a specific type of flower.
+The flower_photos dataset is a popular image classification dataset consisting of 5 classes of flowers: sunflowers, tulips, dandelions, roses, and daisies. Each class contains a certain number of images, with the following distribution:
 
-In this project, we will be using the flower_photos dataset for training a deep learning model for learning purposes. The dataset will be used to train a neural network model to classify images of flowers into their respective categories. By utilizing this dataset, we can develop an understanding of how deep learning models can be trained on real-world image data and how they can be used for image classification tasks. This will provide valuable hands-on experience in building and training deep learning models for practical applications, specifically in the context of image classification using the flower_photos dataset as a learning resource.
+Sunflowers: 699 images
+Tulips: 799 images
+Dandelions: 898 images
+Roses: 641 images
+Daisies: 633 images
+This dataset is commonly used for deep learning projects and machine learning tutorials as a beginner-friendly dataset for image classification tasks. The goal of our project is to train a deep learning model using this dataset for learning purposes. By working with this dataset, we aim to gain hands-on experience in building and training deep learning models, understanding image data preprocessing, and interpreting model performance. This project will provide valuable insights into the practical implementation of deep learning algorithms using real-world image data, and help us improve our understanding of machine learning concepts and techniques.
